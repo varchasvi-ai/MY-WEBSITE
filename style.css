@@ -1,0 +1,85 @@
+body {
+    text-align: center;
+    background-image: url(https://websitebackgrounds.itpresent.com/graphics/images/class_ch.jpg);
+    background-repeat: fill;
+    color: black;
+}
+
+
+
+#im1 {
+    width: 300px;
+}
+
+#profileimg {}
+
+img {
+    border-radius: 10px;
+    height: 300px;
+    width: 200px;
+    border-style: solid;
+    border-width: 25px;
+    border-color: black;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+#rowling {
+    width: 300px;
+}
+
+
+.char {
+    font-size: 20px;
+}
+
+p {
+    padding: 20px;
+    font-size: 20;
+    text-align: center;
+}
+
+.menu {
+    list-style: none;
+    font-family: fantasy;
+    position: absolute;
+    top: 10px;
+    right: 30px;
+    z-index: 10;
+}
+
+
+.link:hover {
+    background-color: white;
+    color: aquamarine;
+}
+
+
+#hello {
+    text-shadow: 2px 2px white;
+    font-size: 80px;
+}
+
+#name {
+    text-shadow: 2px 1px white;
+    font-size: 50px;
+}
+
+#profileimg {
+    border-radius: 10%;
+    width: 300px;
+    height: 300px;
+}
+
+.heading {
+    font-size: 50px;
+    text-shadow: 3px 3px turquoise;
+}
+
+.x {
+    font-size: 35px;
+    text-shadow: 2px 2px lightpink;
+}
